@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKFvtKQyPog=",
+  "dgSpecHash": "P2tyduN0fj8=",
   "success": true,
-  "projectFilePath": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
+  "projectFilePath": "D:\\CURSOS LEONAN\\CSHARP\\Curso IATec C#\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leonan\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Leonan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

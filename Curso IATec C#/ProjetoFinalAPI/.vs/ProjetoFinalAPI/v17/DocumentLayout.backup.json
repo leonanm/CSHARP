@@ -3,14 +3,66 @@
   "WorkspaceRootPath": "D:\\Curso IATec C#\\ProjetoFinalAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E28249DA-6A11-4629-975D-B534150153B4}|..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj|d:\\curso iatec c#\\projetofinalapi.tests\\bookrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E28249DA-6A11-4629-975D-B534150153B4}|..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj|d:\\curso iatec c#\\projetofinalapi.tests\\bookscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28249DA-6A11-4629-975D-B534150153B4}|..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj|d:\\curso iatec c#\\projetofinalapi.tests\\bookrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E28249DA-6A11-4629-975D-B534150153B4}|..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj|d:\\curso iatec c#\\projetofinalapi.tests\\projetofinalapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -20,60 +72,8 @@
       "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:projetofinalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|d:\\curso iatec c#\\projetofinalapi\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E747246-6273-4158-88CF-A38AB1F1E5E7}|ProjetoFinalAPI.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,151 +83,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksControllerTests.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
-              "RelativeDocumentMoniker": "..\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
-              "RelativeToolTip": "..\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:18:02.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProjetoFinalAPI.Tests",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
-              "RelativeDocumentMoniker": "..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
-              "RelativeToolTip": "..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T19:15:35.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PublisherRepository.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\PublisherRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PublisherRepository.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\PublisherRepository.cs",
-              "RelativeToolTip": "Repositories\\PublisherRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:26:25.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:19:39.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjetoFinalAPI.csproj",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
-              "RelativeDocumentMoniker": "ProjetoFinalAPI.csproj",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
-              "RelativeToolTip": "ProjetoFinalAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T18:21:21.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:29:55.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvwMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:29:43.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookRepositoryTests.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
-              "RelativeDocumentMoniker": "..\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
-              "RelativeToolTip": "..\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwE8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:00:14.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\BookRepository.cs*",
-              "RelativeToolTip": "Repositories\\BookRepository.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBsAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T17:26:06.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IPublisherRepository.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IPublisherRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IPublisherRepository.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IPublisherRepository.cs",
-              "RelativeToolTip": "Repositories\\IPublisherRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:25:52.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IBookRepository.cs",
-              "RelativeToolTip": "Repositories\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:25:31.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "IAuthorRepository.cs",
               "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IAuthorRepository.cs",
@@ -235,15 +108,77 @@
               "RelativeToolTip": "Repositories\\IAuthorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:25:40.819Z"
+              "WhenOpened": "2024-10-24T17:25:40.819Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthorRepository.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:26:17.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:19:21.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:23:32.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:23:23.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Models\\Publisher.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Publisher.cs",
+              "RelativeToolTip": "Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:23:42.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PublishersController.cs",
               "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\PublishersController.cs",
               "RelativeDocumentMoniker": "Controllers\\PublishersController.cs",
@@ -256,31 +191,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\AuthorRepository.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\AuthorRepository.cs",
-              "RelativeToolTip": "Repositories\\AuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:26:17.977Z"
+              "WhenOpened": "2024-10-24T17:29:55.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:19:21.032Z"
+              "WhenOpened": "2024-10-24T17:29:43.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:25:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPublisherRepository.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IPublisherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPublisherRepository.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\IPublisherRepository.cs",
+              "RelativeToolTip": "Repositories\\IPublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:25:52.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "PublisherRepository.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\PublisherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PublisherRepository.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Repositories\\PublisherRepository.cs",
+              "RelativeToolTip": "Repositories\\PublisherRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:26:25.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:19:39.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksControllerTests.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
+              "RelativeToolTip": "..\\ProjetoFinalAPI.Tests\\BooksControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:18:02.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookRepositoryTests.cs",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
+              "RelativeToolTip": "..\\ProjetoFinalAPI.Tests\\BookRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:00:14.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjetoFinalAPI.Tests",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
+              "RelativeToolTip": "..\\ProjetoFinalAPI.Tests\\ProjetoFinalAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T19:15:35.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjetoFinalAPI.csproj",
+              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
+              "RelativeDocumentMoniker": "ProjetoFinalAPI.csproj",
+              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
+              "RelativeToolTip": "ProjetoFinalAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T18:21:21.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -289,42 +334,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-24T17:21:08.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Models\\Author.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Author.cs",
-              "RelativeToolTip": "Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:23:32.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Book.cs",
-              "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:23:23.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Publisher.cs",
-              "RelativeDocumentMoniker": "Models\\Publisher.cs",
-              "ToolTip": "D:\\Curso IATec C#\\ProjetoFinalAPI\\Models\\Publisher.cs",
-              "RelativeToolTip": "Models\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T17:23:42.706Z"
             }
           ]
         }

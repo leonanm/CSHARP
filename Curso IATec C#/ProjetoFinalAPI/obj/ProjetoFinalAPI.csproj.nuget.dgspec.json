@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj": {}
+    "D:\\CURSOS LEONAN\\CSHARP\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj": {}
   },
   "projects": {
-    "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj": {
+    "D:\\CURSOS LEONAN\\CSHARP\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
+        "projectUniqueName": "D:\\CURSOS LEONAN\\CSHARP\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
         "projectName": "ProjetoFinalAPI",
-        "projectPath": "D:\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
+        "projectPath": "D:\\CURSOS LEONAN\\CSHARP\\Curso IATec C#\\ProjetoFinalAPI\\ProjetoFinalAPI.csproj",
         "packagesPath": "C:\\Users\\Leonan\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso IATec C#\\ProjetoFinalAPI\\obj\\",
+        "outputPath": "D:\\CURSOS LEONAN\\CSHARP\\Curso IATec C#\\ProjetoFinalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leonan\\AppData\\Roaming\\NuGet\\NuGet.Config",
