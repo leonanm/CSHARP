@@ -20,3 +20,10 @@ D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\obj\
 D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
 D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
 D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\CURSOS LEONAN\CSHARP\C# Criando sua primeira aplicação\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
